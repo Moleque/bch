@@ -9,7 +9,7 @@ To include it in a project, simply use:
 import "github.com/zedseven/bch"
 ```
 
-See [the GoDoc manual](https://godoc.org/github.com/zedseven/bch) for documentation.
+See [the GoDoc manual](https://godoc.org/github.com/moleque/bch) for documentation.
 
 ## An important note
 Please note I did not write the basis of this package - I ported it over from [an excellent example in C on ECCPage](http://www.eccpage.com/bch3.c).
