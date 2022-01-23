@@ -1,3 +1,3 @@
-module github.com/zedseven/bch
+module github.com/moleque/bch
 
 go 1.13
