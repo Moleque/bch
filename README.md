@@ -6,7 +6,7 @@ An implementation of binary Bose-Chaudhuri-Hocquenghem (BCH) codes and error-che
 ## Using the package
 To include it in a project, simply use:
 ```go
-import "github.com/zedseven/bch"
+import "github.com/moleque/bch"
 ```
 
 See [the GoDoc manual](https://godoc.org/github.com/moleque/bch) for documentation.
