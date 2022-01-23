@@ -262,7 +262,7 @@ func readP(m int) (n int, p [21]uint8, err error) {
 	case 6:
 		p[1] = 1
 	case 7:
-		p[1] = 1
+		p[3] = 1	// changed index from 1 to 3
 	case 8:
 		p[4], p[5], p[6] = 1, 1, 1
 	case 9:
